@@ -1,0 +1,12 @@
+Component Name,Purpose in Project,Quantity
+ESP32,Main microcontroller,1
+MLX90614 IR temp sensor module,measure heat or temperature and convert it into a signal,1
+9 V Battery,Powers the system,1
+LCD 16X02,Displays information such as pulse and temperature directly on the hardware device.,1
+LCD I2C Adapter Module PCF8574,"Simplifies the connection between the LCD and ESP32,",1
+9V Battery snap connector,connects the 9V battery securely to the circuit.,1
+On/Off Rocker Switch,To turn the device on or off safely.,1
+USB cable,Supplies power and allows programming of the ESP32.,1
+Breadboard,Provides a platform to connect components without soldering for prototyping.,1
+Breadboard power supply,This will provide power to the breadboard,1
+Pulse Heart Rate Sensor,Measures the user’s heart rate (pulse) and sends the readings,1
